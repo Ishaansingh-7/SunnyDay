@@ -1,6 +1,6 @@
 param(
     [string]$Stack = "sunnyday",
-    [string]$Region = "ap-south-1"
+    [string]$Region = "ap-southeast-2"
 )
 
 $ErrorActionPreference = "Stop"

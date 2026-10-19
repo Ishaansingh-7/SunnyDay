@@ -132,7 +132,7 @@ You can also just double-click `dist/index.html`. It works straight from disk. A
 
 1. Create an AWS account and add a zero-spend budget under **Billing → Budgets**.
 2. Install the [AWS CLI v2](https://awscli.amazonaws.com/AWSCLIV2.msi), [AWS SAM CLI](https://github.com/aws/aws-sam-cli/releases/latest/download/AWS_SAM_CLI_64_PY3.msi) and Node.js.
-3. Create an IAM user with an access key and run `aws configure` (region `ap-south-1`).
+3. Create an IAM user with an access key and run `aws configure` with the region your account uses (`ap-southeast-2` for new AWS projects in India; pass `-Region` to the scripts for any other).
 4. In this folder run:
 
    ```powershell
