@@ -9,7 +9,7 @@
 ![Amazon DynamoDB](https://img.shields.io/badge/Amazon-DynamoDB-4053D6?logo=amazondynamodb&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python&logoColor=white)
 
-<!-- After deploying, replace this line with your site address, for example: **Live site:** https://d1234abcd.cloudfront.net -->
+**Live site: [d2abp6u8pyuy01.cloudfront.net](https://d2abp6u8pyuy01.cloudfront.net)**
 
 ![SunnyDay forecast view on a sunny afternoon](docs/screenshots/today-day.jpg)
 
