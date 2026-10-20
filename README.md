@@ -25,6 +25,7 @@
 - [Tests](#tests)
 - [Project structure](#project-structure)
 - [Data sources and credits](#data-sources-and-credits)
+- [Author](#author)
 
 ## Features
 
@@ -194,3 +195,11 @@ docs/                          architecture diagram and screenshots
 - Weather, air quality, geocoding and ERA5 climate data: [Open-Meteo](https://open-meteo.com) (CC BY 4.0). Free for non-commercial use, up to 10,000 requests a day, no API key.
 - Place names for **My location**: [BigDataCloud](https://www.bigdatacloud.com) free client-side reverse geocoding.
 - ERA5 reanalysis: Copernicus Climate Change Service (C3S), ECMWF.
+
+## Author
+
+| | |
+|---|---|
+| **Name** | Ishaan Singh |
+| **Registration number** | 24BCE0671 |
+| **GitHub** | [@Ishaansingh-7](https://github.com/Ishaansingh-7) |
