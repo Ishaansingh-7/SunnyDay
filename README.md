@@ -1,5 +1,7 @@
 # ☀️ SunnyDay
 
+### By Ishaan Singh · Reg. No. 24BCE0671
+
 **Weather forecasting and climate analytics for any city, with an animated live sky, decades of climate trends, and forecast emails on your schedule. Runs serverless on AWS.**
 
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
